@@ -4,6 +4,7 @@ ppl-assignment-aditya1605 created by GitHub Classroom
 NAME - ADITYA SAPRA
 
 ROLL NO. IIT2015013
+
 to run question 1 and question 2
     open folder q1 & q2
     run question 1 using "g++ q1.cpp miser.cpp generous.cpp geek.cpp desperate.cpp normal.cpp choosy.cpp utility.cpp"
