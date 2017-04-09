@@ -1,0 +1,7 @@
+g1 with b45
+g2 with b32
+g3 with b26
+g4 with b26
+g5 with b26
+g6 with b32
+g7 with b45
