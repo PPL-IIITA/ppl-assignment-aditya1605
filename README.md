@@ -23,7 +23,8 @@ to run question 4 -
    
    open folder q4
    
-   run using "g++ q4.cpp miser.cpp generous.cpp geek.cpp choosy.cpp normal.cpp desperate.cpp couple_util.cpp gift_dist.cpp couple.cpp            gifts.cpp"
+   run using "g++ q4.cpp miser.cpp generous.cpp geek.cpp choosy.cpp normal.cpp desperate.cpp couple_util.cpp gift_dist.cpp couple.cpp           
+   gifts.cpp"
 
 to run question 5-
     
