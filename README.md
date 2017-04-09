@@ -44,4 +44,5 @@ to run question 7-
     run using "g++ q7.cpp miser.cpp generous.cpp geek.cpp choosy.cpp normal.cpp desperate.cpp couple_util.cpp gift_dist.cpp couple.cpp           gifts.cpp"
 
 
+Documentation is present in documentation folder open index.html to view
 
